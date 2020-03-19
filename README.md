@@ -2,5 +2,5 @@
 
 Readme com texto aleatório pelo vi
 
-![Michael Robles](michael.png)
+![Michael Robles](michael.jpg)
 
